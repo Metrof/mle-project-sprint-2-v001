@@ -172,3 +172,9 @@ cython_debug/
 
 # Another cache
 cache/
+
+mlruns/            
+local.study.db      
+*.db                
+*.cache             
+artifacts/          
